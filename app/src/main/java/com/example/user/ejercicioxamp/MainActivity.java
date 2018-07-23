@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+    //joto
     public void mtdRegistrar(View V){
         String Nombre= txtNombre.getText().toString();
         int Documento= Integer.parseInt(txtDocumento.getText().toString());
